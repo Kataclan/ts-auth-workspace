@@ -1,5 +1,5 @@
 {
-    "wwwroot": "../srv-frontend/dist/debug/",
+    "wwwroot": "../ts-auth-workspace/dist/debug/",
     "listenPort": "50000",
     "startMessage": "listen on port 50000",
     "mongodbUrl": "YOUR MONGODB URL"
